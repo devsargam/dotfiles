@@ -125,4 +125,5 @@ export NVM_DIR="$HOME/.nvm"
 
 # My preferences
 alias develop='cd ~/Documents/programming/'
+alias study='cd ~/Documents/study'
 
