@@ -123,7 +123,16 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
+# Some weird hacks
+alias python='python3'
+
 # My preferences
 alias develop='cd ~/Documents/programming/'
 alias study='cd ~/Documents/study'
+alias music='cd ~/Music'
+alias video='cd ~/Videos'
+alias photos='cd ~/Pictures'
+alias dl='cd ~/Downloads'
+alias dc='cd ~/Documents'
+alias dt='cd ~/Desktop'
 
